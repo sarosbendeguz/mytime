@@ -214,25 +214,8 @@
         count($(this));
     });
 
-	//NiceScroll	
-	$("body").niceScroll({
-		cursorcolor:		"#432382",
-		cursorwidth: 		"12px",
-		cursorborder: 		"0px solid #000",
-		scrollspeed: 		80,
-		autohidemode: 		true,
-		background: 		'#ddd',
-		hidecursordelay: 	400,
-		cursorfixedheight: 	false,
-		cursorminheight: 	200,
-		enablekeyboard: 	true,
-		horizrailenabled: 	true,
-		bouncescroll: 		false,
-		smoothscroll: 		true,
-		iframeautoresize: 	true,
-		touchbehavior: 		false,
-		zindex: 9999
-	});
+		
+	
 	
 	
 
