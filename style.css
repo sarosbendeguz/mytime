@@ -409,11 +409,11 @@ a img.aligncenter {
 }
 
 .in-box{
-	background: #c99a97;
+	background: #bf816a;
 	display: inline-block;
 	padding: 40px;
 	position: relative;
-	border: 20px solid #ad817f;
+	border: 20px solid #b27862;
 }
 .in-box::before{
 	border: 10px solid #ffffff;
@@ -465,7 +465,7 @@ a img.aligncenter {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #ad817f;
+    background: #b27862;
     -webkit-transform: scale(0);
     transform: scale(0);
     -webkit-transition-property: transform;
@@ -759,7 +759,7 @@ xclip
 }
 .right-box-pro::before {
     content: "";
-    background: #ad817f;
+    background: #b27862;
     width: 100%;
     height: 100%;
     position: absolute;
@@ -769,7 +769,7 @@ xclip
 }
 .right-box-pro::after {
     content: "";
-    background: #ad817f;
+    background: #b27862;
     width: 100%;
     height: 100%;
     position: absolute;
@@ -794,7 +794,7 @@ xclip
 	height: 90px;
 	text-align: center;
 	line-height: 90px;
-	background: #ad817f;
+	background: #b27862;
 	margin: 0 auto;
 }
 .ser-icon i{
@@ -994,8 +994,8 @@ xclip
 .desc {
     padding: 30px;
     position: relative;
-    background: #ad817f;
-    border: 15px solid #c99a97;
+    background: #b27862;
+    border: 15px solid #bf816a;
 }
 .desc::before {
     border: 10px solid #ffffff;
@@ -1086,7 +1086,7 @@ xclip
     width: 120px;
     height: 120px;
     border-radius: 40px;
-    background: #ad817f;
+    background:;
     position: absolute;
     bottom: -60px;
     left: 0;
@@ -1128,7 +1128,7 @@ xclip
     content: "\f00c";
     font-family: 'FontAwesome';
     font-size: 20px;
-    color: #c99a97;
+    color: #bf816a;
     margin-right: 10px;
 }
 .pricingTable .pricingTable-signup{
@@ -1199,7 +1199,7 @@ xclip
     display: block;
     font-size: 16px;
     font-style: normal;
-    color: #ad817f;
+    color: #b27862;
     text-transform: uppercase;
     margin-bottom: 25px;
 }
@@ -1221,7 +1221,7 @@ xclip
     transform: rotate(-45deg);
     transition: all 0.4s ease-in-out;
 }
-.box .icon li a:hover{ background: #ad817f; }
+.box .icon li a:hover{ background: #b27862; }
 .box .icon li a span{ display: block; }
 .box .icon li a span i{ transform: rotate(45deg); }
 .box .icon li a:before,
@@ -1485,7 +1485,7 @@ xclip
 
 .message-box ul{}
 .message-box ul li{
-	background: #ad817f;
+	background: #b27862;
 	padding: 10px 20px;
 	margin-bottom: 10px;
 	color: #ffffff;
@@ -1698,7 +1698,7 @@ hr.invis1 {
 }
 
 .filter-button-group button.active{
-	background: #ad817f;
+	background: #b27862;
 	color: #fff;
 	box-shadow: 2px 20px 45px 5px rgba(0,0,0,.2);	
 }
@@ -1765,7 +1765,7 @@ hr.invis1 {
 	right: 0px;
 	left: 0px;
 	margin: 0 auto;
-	background: #ad817f;
+	background: #b27862;
 	color: #fff;
 	padding: 10px 15px;
 	text-align: center;
@@ -1844,7 +1844,7 @@ hr.invis1 {
 	display: block;
 	text-align: center;
 	margin-bottom: 15px;
-	background: #ad817f;
+	background: #b27862;
 	color: #ffffff;
 	padding: 10px 0px;
 	box-shadow: 0 7px 10px #e6e6e6;
@@ -2354,7 +2354,7 @@ select.mobile-device {
 }
 
 .contact_form .form-control {
-    background-color: #c99a97;
+    background-color: #bf816a;
     margin-bottom: 30px;
     border: 1px solid #ebebeb;
     box-sizing: border-box;
@@ -2539,7 +2539,7 @@ select.mobile-device {
     text-decoration: none;
 }
 .footer-distributed .footer-links a:hover{
-	color: #ad817f;
+	color: #b27862;
 }
 
 .footer-distributed .footer-company-name {
@@ -2612,7 +2612,7 @@ select.mobile-device {
 }
 
 .footer-distributed .footer-company-name a{
-	color: #ad817f;
+	color: #b27862;
 }
 
 .footer-distributed .footer-company-name a:hover{
@@ -2663,7 +2663,7 @@ select.mobile-device {
 }
 
 .dmtop:hover{
-	background: #ad817f;
+	background: #b27862;
 }
 
 .icon_wrap {
@@ -2705,7 +2705,7 @@ select.mobile-device {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #ad817f;
+    background: #b27862;
     z-index: 11000;
     position: fixed;
     display: block
