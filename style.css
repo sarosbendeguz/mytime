@@ -348,25 +348,16 @@ a img.aligncenter {
     SECTIONS
 -------------------------------------------------------------------*/
 
-.main-banner{
-	height: 100%;
-	position: relative;
+.main-banner {
+  /* ezt a balazs hagyta itt. ez allitja a felso kepet a navbar alatt */
+  width: 100%;
+  margin-top: 96px;
 }
 
-.main-banner{
-    width: 100%;
-	text-align: center;
+.main-banner img {
+  width: 100%;
 }
-.main-banner::after {
-    content: " ";
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: #000;
-    z-index: 0;
-    opacity: .6;
+
 }
 .heading{
 	color: #fff;
@@ -499,6 +490,9 @@ a img.aligncenter {
 	-moz-transition: all 2.9s;
 	-webkit-transition: all 2.9s;
 	transition: all 2.9s;
+	width: ;
+    max-width: ;
+    height: ;
 }
 
 
